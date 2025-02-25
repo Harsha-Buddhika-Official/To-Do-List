@@ -35,7 +35,7 @@ A simple **To-Do List Application** built using **HTML, CSS, and JavaScript**. T
 ```
 
 ## Screenshot
-![Todo List Preview](https://your-image-link-here.com)
+https://drive.google.com/file/d/16h71oOqzmaLhN0hqJPVKrCMuwvlS39NU/view?usp=drive_link
 
 ## Contributing
 Feel free to submit pull requests to improve this project. 😊
