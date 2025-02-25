@@ -17,7 +17,7 @@ A simple **To-Do List Application** built using **HTML, CSS, and JavaScript**. T
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/your-repo-name.git
+   git clone https://github.com/HarshaBuddhikaOfficial/To-Do-List.git
    ```
 2. Open the **index.html** file in your browser.
 3. Type a task in the input field and press the **Add** button or hit **Enter**.
