@@ -28,9 +28,9 @@ A simple **To-Do List Application** built using **HTML, CSS, and JavaScript**. T
 ## Project Structure
 ```
 📂 Your-Project-Folder
-├── 📄 index.html   # Main HTML file
-├── 📄 style.css    # CSS styles
-├── 📄 script.js    # JavaScript logic
+├── 📄 Index.html   # Main HTML file
+├── 📄 Style_Sheet.css    # CSS styles
+├── 📄 Script.js    # JavaScript logic
 └── 📂 images       # Icons for task status
 ```
 
